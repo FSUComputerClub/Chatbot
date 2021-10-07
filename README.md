@@ -2,7 +2,9 @@
 Club chatbot
 Instructions to get the Chatterbot working
 Step 1. First make sure you are using a version of Python 3 or newer. To check your version of Python use this command:
+
 python --version
+
 That command will tell you what version you are using. The newest vesrion of Python is Python 3.10 which was released  2021-10-04
 
 Step 2. Installing the ChatterBot from your command line or terminal by using this command:
